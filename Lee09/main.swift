@@ -8,5 +8,47 @@
 
 import Foundation
 
-print()
+var obj1 = Lee01()
+print(obj1.x)
+
+print(Lee02.x1)
+
+var obj2 = Lee02()
+
+Lee03.f2()
+
+var b1 = MyBike()
+var b2 = MyBike()
+var b3 = MyBike()
+var b4 = MyBike()
+print(MyBike.counter)
+print(b1.counter)
+print(b2.counter)
+print(b3.counter)
+print(b4.counter)
+
+var obj3 = Super1()
+var obj4 = Sub11()
+var obj5 = Sub12()
+var obj6 = Sub13(1)
+
+print("==========")
+
+var obj7 = Sub21()
+//var obj7 = Sub21(1)
+//var obj7 = Sub21(1.0)
+
+var obj8 = Sub22(3)
+print("==========")
+
+var obj9 = Sub31(1)
+
+print("=======")
+
+var obja = Sub41()
+var objb = Sub41()
+var objc = Sub42()
+var objd = Sub42(x:1)
+
+print("=========")
 

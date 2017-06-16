@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		CEB4E7F41EF3684700BE7AA2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB4E7F31EF3684700BE7AA2 /* main.swift */; };
+		CEB4E7FB1EF36B5500BE7AA2 /* Myclasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB4E7FA1EF36B5400BE7AA2 /* Myclasses.swift */; };
+		CEB4E7FD1EF3709200BE7AA2 /* MyLee.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB4E7FC1EF3709200BE7AA2 /* MyLee.swift */; };
+		CEB4E7FF1EF3764F00BE7AA2 /* bike.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB4E7FE1EF3764F00BE7AA2 /* bike.swift */; };
+		CEB4E8011EF38BF400BE7AA2 /* Inheritance.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB4E8001EF38BF400BE7AA2 /* Inheritance.swift */; };
+		CEB4E8031EF38C4500BE7AA2 /* TWID.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB4E8021EF38C4500BE7AA2 /* TWID.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		CEB4E7F01EF3684700BE7AA2 /* Lee09 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Lee09; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB4E7F31EF3684700BE7AA2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CEB4E7FA1EF36B5400BE7AA2 /* Myclasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Myclasses.swift; sourceTree = "<group>"; };
+		CEB4E7FC1EF3709200BE7AA2 /* MyLee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyLee.swift; sourceTree = "<group>"; };
+		CEB4E7FE1EF3764F00BE7AA2 /* bike.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bike.swift; sourceTree = "<group>"; };
+		CEB4E8001EF38BF400BE7AA2 /* Inheritance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Inheritance.swift; sourceTree = "<group>"; };
+		CEB4E8021EF38C4500BE7AA2 /* TWID.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TWID.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +68,11 @@
 			isa = PBXGroup;
 			children = (
 				CEB4E7F31EF3684700BE7AA2 /* main.swift */,
+				CEB4E7FA1EF36B5400BE7AA2 /* Myclasses.swift */,
+				CEB4E7FC1EF3709200BE7AA2 /* MyLee.swift */,
+				CEB4E7FE1EF3764F00BE7AA2 /* bike.swift */,
+				CEB4E8001EF38BF400BE7AA2 /* Inheritance.swift */,
+				CEB4E8021EF38C4500BE7AA2 /* TWID.swift */,
 			);
 			path = Lee09;
 			sourceTree = "<group>";
@@ -121,7 +136,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEB4E7FF1EF3764F00BE7AA2 /* bike.swift in Sources */,
+				CEB4E7FB1EF36B5500BE7AA2 /* Myclasses.swift in Sources */,
+				CEB4E8011EF38BF400BE7AA2 /* Inheritance.swift in Sources */,
+				CEB4E7FD1EF3709200BE7AA2 /* MyLee.swift in Sources */,
 				CEB4E7F41EF3684700BE7AA2 /* main.swift in Sources */,
+				CEB4E8031EF38C4500BE7AA2 /* TWID.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
